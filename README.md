@@ -32,5 +32,5 @@ The Laravel framework is open-sourced software licensed under the MIT license
     DB_PASSWORD=
 5. Прописать хосты (до папки public включтельно).
 6. Открыть доступ к папкам (с попдпапками и файлами) public и storage.
-7. Таблицы в базе создаются миграциями: команда php artisan migration
+7. Таблицы в базе создаются миграциями: команда php artisan migrate
 
